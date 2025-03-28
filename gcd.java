@@ -1,4 +1,4 @@
-public class FindGCDExample1   
+public class gcd
 {  
 public static void main(String[] args)   
 {    
